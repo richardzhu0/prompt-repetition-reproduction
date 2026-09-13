@@ -1,0 +1,527 @@
+[
+  {
+    "question_id": 0,
+    "correct_answer": "David Scott",
+    "predicted": "David Scott",
+    "correct": true,
+    "latency": 11.779691934585571
+  },
+  {
+    "question_id": 1,
+    "correct_answer": "Charles White",
+    "predicted": "Charles White",
+    "correct": true,
+    "latency": 9.669172048568726
+  },
+  {
+    "question_id": 2,
+    "correct_answer": "Richard Brown",
+    "predicted": "Richard Brown",
+    "correct": true,
+    "latency": 5.4255499839782715
+  },
+  {
+    "question_id": 3,
+    "correct_answer": "Joseph Miller",
+    "predicted": "Joseph Miller",
+    "correct": true,
+    "latency": 2.7683568000793457
+  },
+  {
+    "question_id": 4,
+    "correct_answer": "Emily Allen",
+    "predicted": "Emily Allen",
+    "correct": true,
+    "latency": 20.57455587387085
+  },
+  {
+    "question_id": 5,
+    "correct_answer": "Jessica Scott",
+    "predicted": "Jessica Scott",
+    "correct": true,
+    "latency": 2.2404420375823975
+  },
+  {
+    "question_id": 6,
+    "correct_answer": "Anthony Johnson",
+    "predicted": "Anthony Johnson",
+    "correct": true,
+    "latency": 2.9703469276428223
+  },
+  {
+    "question_id": 7,
+    "correct_answer": "Kenneth Anderson",
+    "predicted": "Kenneth Anderson",
+    "correct": true,
+    "latency": 7.38859224319458
+  },
+  {
+    "question_id": 8,
+    "correct_answer": "Daniel Thomas",
+    "predicted": "Daniel Thomas",
+    "correct": true,
+    "latency": 4.262234926223755
+  },
+  {
+    "question_id": 9,
+    "correct_answer": "Margaret White",
+    "predicted": "Margaret White",
+    "correct": true,
+    "latency": 5.684741973876953
+  },
+  {
+    "question_id": 10,
+    "correct_answer": "Elizabeth Garcia",
+    "predicted": "Elizabeth Garcia",
+    "correct": true,
+    "latency": 3.481257915496826
+  },
+  {
+    "question_id": 11,
+    "correct_answer": "David Jackson",
+    "predicted": "David Jackson",
+    "correct": true,
+    "latency": 3.3771917819976807
+  },
+  {
+    "question_id": 12,
+    "correct_answer": "Mark Jones",
+    "predicted": "Thomas Harris",
+    "correct": false,
+    "latency": 4.711132049560547
+  },
+  {
+    "question_id": 13,
+    "correct_answer": "Jessica Miller",
+    "predicted": "Jessica Lewis",
+    "correct": false,
+    "latency": 3.329913854598999
+  },
+  {
+    "question_id": 14,
+    "correct_answer": "James Wilson",
+    "predicted": "James Wilson",
+    "correct": true,
+    "latency": 2.0615711212158203
+  },
+  {
+    "question_id": 15,
+    "correct_answer": "Robert Brown",
+    "predicted": "Robert Brown",
+    "correct": true,
+    "latency": 32.39453101158142
+  },
+  {
+    "question_id": 16,
+    "correct_answer": "Matthew Flores",
+    "predicted": "Matthew Flores",
+    "correct": true,
+    "latency": 9.34301495552063
+  },
+  {
+    "question_id": 17,
+    "correct_answer": "John Allen",
+    "predicted": "John Allen",
+    "correct": true,
+    "latency": 2.8431150913238525
+  },
+  {
+    "question_id": 18,
+    "correct_answer": "Daniel Lewis",
+    "predicted": "Sandra Walker",
+    "correct": false,
+    "latency": 3.4803671836853027
+  },
+  {
+    "question_id": 19,
+    "correct_answer": "Dorothy Jones",
+    "predicted": "Thomas Jones",
+    "correct": false,
+    "latency": 28.876961946487427
+  },
+  {
+    "question_id": 20,
+    "correct_answer": "Donna Clark",
+    "predicted": "Donna Clark",
+    "correct": true,
+    "latency": 4.5333709716796875
+  },
+  {
+    "question_id": 21,
+    "correct_answer": "Linda Perez",
+    "predicted": "Linda Perez",
+    "correct": true,
+    "latency": 2.7715609073638916
+  },
+  {
+    "question_id": 22,
+    "correct_answer": "Margaret Anderson",
+    "predicted": "Elizabeth Thompson",
+    "correct": false,
+    "latency": 3.706943988800049
+  },
+  {
+    "question_id": 23,
+    "correct_answer": "Linda Flores",
+    "predicted": "Linda Flores",
+    "correct": true,
+    "latency": 7.589695930480957
+  },
+  {
+    "question_id": 24,
+    "correct_answer": "Steven Robinson",
+    "predicted": "Steven Robinson",
+    "correct": true,
+    "latency": 2.6573259830474854
+  },
+  {
+    "question_id": 25,
+    "correct_answer": "Mark Perez",
+    "predicted": "Mark Perez",
+    "correct": true,
+    "latency": 9.378743648529053
+  },
+  {
+    "question_id": 26,
+    "correct_answer": "Jessica Lopez",
+    "predicted": "Jessica Lopez",
+    "correct": true,
+    "latency": 10.25261378288269
+  },
+  {
+    "question_id": 27,
+    "correct_answer": "William Garcia",
+    "predicted": "William Garcia",
+    "correct": true,
+    "latency": 16.428328037261963
+  },
+  {
+    "question_id": 28,
+    "correct_answer": "Elizabeth White",
+    "predicted": "Elizabeth White",
+    "correct": true,
+    "latency": 24.65298628807068
+  },
+  {
+    "question_id": 29,
+    "correct_answer": "Ashley Hernandez",
+    "predicted": "Ashley Hernandez",
+    "correct": true,
+    "latency": 2.1174252033233643
+  },
+  {
+    "question_id": 30,
+    "correct_answer": "John Anderson",
+    "predicted": "John Anderson",
+    "correct": true,
+    "latency": 2.438369035720825
+  },
+  {
+    "question_id": 31,
+    "correct_answer": "Nancy Moore",
+    "predicted": "Nancy Moore",
+    "correct": true,
+    "latency": 2.488813877105713
+  },
+  {
+    "question_id": 32,
+    "correct_answer": "Emily Jackson",
+    "predicted": "Emily Jackson",
+    "correct": true,
+    "latency": 3.700455904006958
+  },
+  {
+    "question_id": 33,
+    "correct_answer": "Paul Torres",
+    "predicted": "Paul Torres",
+    "correct": true,
+    "latency": 3.5423102378845215
+  },
+  {
+    "question_id": 34,
+    "correct_answer": "David Nguyen",
+    "predicted": "David Nguyen",
+    "correct": true,
+    "latency": 6.580797910690308
+  },
+  {
+    "question_id": 35,
+    "correct_answer": "Barbara Ramirez",
+    "predicted": "Paul Lopez",
+    "correct": false,
+    "latency": 17.488499879837036
+  },
+  {
+    "question_id": 36,
+    "correct_answer": "Matthew Lee",
+    "predicted": "Matthew Lee",
+    "correct": true,
+    "latency": 2.7685189247131348
+  },
+  {
+    "question_id": 37,
+    "correct_answer": "Emily Flores",
+    "predicted": "Emily Flores",
+    "correct": true,
+    "latency": 12.604262113571167
+  },
+  {
+    "question_id": 38,
+    "correct_answer": "Mark Gonzalez",
+    "predicted": "Mark Gonzalez",
+    "correct": true,
+    "latency": 2.195981979370117
+  },
+  {
+    "question_id": 39,
+    "correct_answer": "Anthony Brown",
+    "predicted": "Anthony Brown",
+    "correct": true,
+    "latency": 2.574834108352661
+  },
+  {
+    "question_id": 40,
+    "correct_answer": "Robert Nguyen",
+    "predicted": "Robert Nguyen",
+    "correct": true,
+    "latency": 2.0881130695343018
+  },
+  {
+    "question_id": 41,
+    "correct_answer": "Barbara Allen",
+    "predicted": "Barbara Allen",
+    "correct": true,
+    "latency": 29.183847188949585
+  },
+  {
+    "question_id": 42,
+    "correct_answer": "Paul Anderson",
+    "predicted": "Paul Anderson",
+    "correct": true,
+    "latency": 9.627182006835938
+  },
+  {
+    "question_id": 43,
+    "correct_answer": "Elizabeth Thomas",
+    "predicted": "Elizabeth Thomas",
+    "correct": true,
+    "latency": 55.817622900009155
+  },
+  {
+    "question_id": 44,
+    "correct_answer": "Steven Moore",
+    "predicted": "Steven Moore",
+    "correct": true,
+    "latency": 1.8345770835876465
+  },
+  {
+    "question_id": 45,
+    "correct_answer": "Daniel Nguyen",
+    "predicted": "Daniel Nguyen",
+    "correct": true,
+    "latency": 4.658819198608398
+  },
+  {
+    "question_id": 46,
+    "correct_answer": "Donald Taylor",
+    "predicted": "Donald Taylor",
+    "correct": true,
+    "latency": 2.74960994720459
+  },
+  {
+    "question_id": 47,
+    "correct_answer": "Dorothy White",
+    "predicted": "Dorothy White",
+    "correct": true,
+    "latency": 3.5464069843292236
+  },
+  {
+    "question_id": 48,
+    "correct_answer": "Barbara Harris",
+    "predicted": "Barbara Harris",
+    "correct": true,
+    "latency": 51.402486085891724
+  },
+  {
+    "question_id": 49,
+    "correct_answer": "Matthew Walker",
+    "predicted": "Matthew Walker",
+    "correct": true,
+    "latency": 6.86769700050354
+  },
+  {
+    "question_id": 50,
+    "correct_answer": "Jessica Garcia",
+    "predicted": "Jessica Garcia",
+    "correct": true,
+    "latency": 12.64423394203186
+  },
+  {
+    "question_id": 51,
+    "correct_answer": "James Taylor",
+    "predicted": "James Taylor",
+    "correct": true,
+    "latency": 6.96408224105835
+  },
+  {
+    "question_id": 52,
+    "correct_answer": "Dorothy Anderson",
+    "predicted": "Mark Clark",
+    "correct": false,
+    "latency": 72.97076201438904
+  },
+  {
+    "question_id": 53,
+    "correct_answer": "Richard Jones",
+    "predicted": "Matthew Johnson",
+    "correct": false,
+    "latency": 14.74361801147461
+  },
+  {
+    "question_id": 54,
+    "correct_answer": "Matthew Rodriguez",
+    "predicted": "Matthew Rodriguez",
+    "correct": true,
+    "latency": 1.932283878326416
+  },
+  {
+    "question_id": 55,
+    "correct_answer": "David Flores",
+    "predicted": "David Flores",
+    "correct": true,
+    "latency": 4.311893939971924
+  },
+  {
+    "question_id": 56,
+    "correct_answer": "Nancy Garcia",
+    "predicted": "Nancy Garcia",
+    "correct": true,
+    "latency": 3.706156015396118
+  },
+  {
+    "question_id": 57,
+    "correct_answer": "Paul Martin",
+    "predicted": "Paul Martin",
+    "correct": true,
+    "latency": 22.21496081352234
+  },
+  {
+    "question_id": 58,
+    "correct_answer": "Donna Lewis",
+    "predicted": "Donna Lewis",
+    "correct": true,
+    "latency": 23.864715814590454
+  },
+  {
+    "question_id": 59,
+    "correct_answer": "Thomas Garcia",
+    "predicted": "Thomas Garcia",
+    "correct": true,
+    "latency": 4.602236032485962
+  },
+  {
+    "question_id": 60,
+    "correct_answer": "Elizabeth Flores",
+    "predicted": "Elizabeth Flores",
+    "correct": true,
+    "latency": 52.83798360824585
+  },
+  {
+    "question_id": 61,
+    "correct_answer": "Nancy Thomas",
+    "predicted": "Nancy Thomas",
+    "correct": true,
+    "latency": 6.622419118881226
+  },
+  {
+    "question_id": 62,
+    "correct_answer": "Mark Flores",
+    "predicted": "Mark Flores",
+    "correct": true,
+    "latency": 2.7406671047210693
+  },
+  {
+    "question_id": 63,
+    "correct_answer": "Charles Miller",
+    "predicted": "Charles Miller",
+    "correct": true,
+    "latency": 5.180985927581787
+  },
+  {
+    "question_id": 64,
+    "correct_answer": "Matthew Perez",
+    "predicted": "Matthew Perez",
+    "correct": true,
+    "latency": 15.448776006698608
+  },
+  {
+    "question_id": 65,
+    "correct_answer": "Kenneth Brown",
+    "predicted": "Kenneth Brown",
+    "correct": true,
+    "latency": 3.889273166656494
+  },
+  {
+    "question_id": 66,
+    "correct_answer": "Karen Allen",
+    "predicted": "Karen Allen",
+    "correct": true,
+    "latency": 4.793628215789795
+  },
+  {
+    "question_id": 67,
+    "correct_answer": "Andrew Miller",
+    "predicted": "Andrew Miller",
+    "correct": true,
+    "latency": 1.9559800624847412
+  },
+  {
+    "question_id": 68,
+    "correct_answer": "Dorothy Smith",
+    "predicted": "Dorothy Smith",
+    "correct": true,
+    "latency": 1.8928029537200928
+  },
+  {
+    "question_id": 69,
+    "correct_answer": "Patricia Sanchez",
+    "predicted": "NONE",
+    "correct": false,
+    "latency": 0.0
+  },
+  {
+    "question_id": 70,
+    "correct_answer": "John Young",
+    "predicted": "John Young",
+    "correct": true,
+    "latency": 42.729674100875854
+  },
+  {
+    "question_id": 71,
+    "correct_answer": "Ashley Smith",
+    "predicted": "Ashley Smith",
+    "correct": true,
+    "latency": 13.02192497253418
+  },
+  {
+    "question_id": 72,
+    "correct_answer": "Joseph Martinez",
+    "predicted": "Joseph Martinez",
+    "correct": true,
+    "latency": 3.4610612392425537
+  },
+  {
+    "question_id": 73,
+    "correct_answer": "Lisa Williams",
+    "predicted": "Daniel Wright",
+    "correct": false,
+    "latency": 2.1795239448547363
+  },
+  {
+    "question_id": 74,
+    "correct_answer": "Joshua Walker",
+    "predicted": "Joshua Walker",
+    "correct": true,
+    "latency": 2.003121852874756
+  }
+]
