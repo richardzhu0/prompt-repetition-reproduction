@@ -6,6 +6,6 @@ A reproduction of Leviathan, Kalman, and Matias **"Prompt Repetition Improves No
 
 A failure taxonomy is included to classify wrong answers into various categories, which shows the effect arrives by different routes on different model families. On lite models, repetition removes ordinary wrong answers and nothing else. On flash models, most baseline failures come with malformed output that runs past the answer into the next list item, and repetition suppresses malformed output and the answers together. 
 
-The failure taxonomy, as well as the per-question results for every run, and the Python code can be found in the attached folder (prompt-repetition-reproduction)
+The failure taxonomy, as well as the per-question results for every run, and the Python code can be found in the attached folder (prompt-repetition-reproduction).
 
 **[Full report](report.pdf)**
