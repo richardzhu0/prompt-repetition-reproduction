@@ -79,7 +79,7 @@ Every failure is assigned to one of five categories rather than scored as simply
 Two hypothesis of `LEAKED` were tested and rejected:
 
 - **Does the extractor discard correct answers?** No. Across 312 non-infrastructure failures (failures excluding `ERROR` and `BLOCKED`), the correct answer appeared anywhere in the raw output exactly once.
-- **Do index-prefixed responses like `23. Mary Lewis` mean the model answered a different list position?** No. Of 44 such responses, none contained the correct answer for the index named in the prefix, or either adjacent index.
+- **Do index-prefixed responses like `23. Mary Lewis` mean the model answered a different list position?** Not at all. Of 44 such responses, none contained the correct answer for the index named in the prefix, or either adjacent index.
 
 The failure taxonomy, as well as the per-question results for every run, and the Python code can be found in the attached folder (prompt-repetition-reproduction).
 
