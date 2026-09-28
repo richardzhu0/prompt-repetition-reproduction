@@ -18,7 +18,7 @@ A failure taxonomy is included to classify wrong answers into various categories
 
 ### ARC Challenge (n=100)
 
-| Ordering | Baseline | Repetition | Δ | p |
+| Ordering | Baseline | Repetition | Δ | p-value|
 |---|---:|---:|---:|---:|
 | Question-first | 87.00% | 93.00% | +6.00 | 0.1094 |
 | Options-first | 84.00% | 90.00% | +6.00 | 0.2632 |
